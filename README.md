@@ -73,7 +73,7 @@ pip install -r requirements.txt
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/Telegram-Safe-File-Bot.git
+git clone https://github.com/Linuxlearners/Telegram-Safe-File-Bot.git
 cd Telegram-Safe-File-Bot
 ```
 
